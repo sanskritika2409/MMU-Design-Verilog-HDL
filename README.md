@@ -1,16 +1,13 @@
-
-```
-
 # 🚀 Memory Management Unit (MMU) Design using Verilog HDL
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Domain-VLSI-orange">
-<img src="https://img.shields.io/badge/HDL-Verilog-blue">
-<img src="https://img.shields.io/badge/Simulation-Icarus%20Verilog-green">
-<img src="https://img.shields.io/badge/Waveform-GTKWave-purple">
-<img src="https://img.shields.io/badge/Dashboard-Streamlit-red">
-<img src="https://img.shields.io/badge/FPGA-Ready-black">
+![VLSI](https://img.shields.io/badge/Domain-VLSI-orange)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
+![Icarus](https://img.shields.io/badge/Simulation-Icarus%20Verilog-green)
+![GTKWave](https://img.shields.io/badge/Waveform-GTKWave-purple)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
+![FPGA](https://img.shields.io/badge/FPGA-Ready-black)
 
 </p>
 
@@ -443,5 +440,5 @@ After completing this project:
 
 This project is created for educational and VLSI learning purposes.
 
-````
+
 
