@@ -1,0 +1,7 @@
+read_verilog rtl/mmu.v
+read_verilog rtl/tlb.v
+read_verilog rtl/ptw.v
+read_verilog rtl/perm_check.v
+hierarchy -top mmu
+synth -top mmu
+stat
